@@ -3,4 +3,4 @@
 
 ## :arrow_right: [Работы по алгебре](/Algebra)
 
-## :arrow_right: [Работы по матану](/Mathematical analysis)
+## :arrow_right: [Работы по матану](/Mathematical_analysis)
